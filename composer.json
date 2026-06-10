@@ -1,0 +1,15 @@
+{
+    "name":"cansugun/workopia-php",
+    "description":"Job listing application",
+    "authors":[{
+        "name":"Cansu GUN",
+        "email":"cansugn644@outlook.com"
+    }],
+    "autoload":{
+        "psr-4":{
+            "Framework\\":"Framework/",
+            "App\\":"App/"
+        }
+    }
+
+}
