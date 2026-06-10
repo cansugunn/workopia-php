@@ -106,7 +106,3 @@ routes.php
 helpers.php
 composer.json
 ```
-
-## License
-
-This project is licensed under the MIT License.
